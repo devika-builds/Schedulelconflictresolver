@@ -1,0 +1,9 @@
+{
+  "name": "schedule-conflict-resolver",
+  "version": "1.0.0",
+  "description": "A schedule conflict resolver built on weighted judgment — EA portfolio piece by Devika Ramkaran",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
